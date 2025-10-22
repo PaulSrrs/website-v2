@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --header-border: rgba(0, 0, 0, 0.2);
+  --card-description: black;
+  --deep-blue: #027DFD;
 }
 
 @theme inline {

@@ -1,0 +1,13 @@
+{
+  "name": "Socrate",
+  "short_name": "Socrate",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [{
+    "src": "./assets/icon/icon.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }],
+  "background_color": "#16161d",
+  "theme_color": "#16161d"
+}

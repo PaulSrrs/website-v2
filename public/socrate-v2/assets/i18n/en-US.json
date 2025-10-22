@@ -1,0 +1,90 @@
+{
+  "META": {
+    "TITLE": "Socrate, the 1st European social network for knowledge sharing.",
+    "DESCRIPTION": "Learn and share all your knowledge. Download the mobile, web and iPad application.",
+    "OG_TYPE": "website",
+    "OG_URL": "https://socrate.education/",
+    "OG_TITLE": "Socrate, the 1st European social network for knowledge sharing.",
+    "OG_DESCRIPTION": "Learn and share all your knowledge. Download the mobile, web and iPad application.",
+    "OG_IMAGE": "https://sn-images.socrate.education/static/banner-beta.png",
+    "TWITTER_CARD": "summary_large_image",
+    "TWITTER_URL": "https://socrate.education/",
+    "TWITTER_TITLE": "Socrate, the 1st European social network for knowledge sharing.",
+    "TWITTER_DESCRIPTION": "Learn and share all your knowledge. Download the mobile, web and iPad application.",
+    "TWITTER_IMAGE": "https://sn-images.socrate.education/static/banner-beta.png"
+  },
+  "V2": {
+    "HERO": {
+      "HEADLINE_1": "The 1st European social network in Europe of\n",
+      "HEADLINE_2": "knowledge sharing",
+      "SUBHEADLINE": "Learn, share and progress.",
+      "SOCRATE_ON_BROWSER": "Go to Socrate"
+    },
+    "BADGES": {
+      "PLAY_STORE": {
+        "ALT": "google play badge",
+        "LINK": "https://socrate.app.link/fWmhA2h0Xmb",
+        "SRC_WHITE": "../../assets/images/badges/play-store-white-en.svg",
+        "SRC_BLACK": "../../assets/images/badges/play-store-black-en.svg"
+      },
+      "APPLE_STORE": {
+        "ALT": "apple store badge",
+        "LINK": "https://socrate.app.link/l1oOs92ZXmb",
+        "SRC_WHITE": "../../assets/images/badges/apple-store-white-en.svg",
+        "SRC_BLACK": "../../assets/images/badges/apple-store-black-en.svg"
+      }
+    },
+    "PERSONNAS": {
+      "ONE": {
+        "NAME": "Brooklyn Simmons",
+        "TYPE": "Learner",
+        "JOB": "Fashion design student"
+      },
+      "FOUR": {
+        "NAME": "Socrate",
+        "TYPE": "Company",
+        "JOB": "Social network"
+      },
+      "SIX": {
+        "NAME": "Jerome Bell",
+        "TYPE": "Mentor",
+        "JOB": "Developer"
+      }
+    },
+    "SLIDES": {
+      "ONE": {
+        "HEADLINE_1": "Learn and share all your knowledge on the ",
+        "HEADLINE_2": "Socrate Store.",
+        "PARAGRAPH": "As a learner, you will find exactly what you are looking for to progress.\nCourses, events, training, podcasts, fact sheets, and most importantly...Mentors.\n\nAs a Mentor, you will share your knowledge in any field.\nOnline or face-to-face, to one or dozens of learners simultaneously.\nThe choice is yours."
+      },
+      "TWO": {
+        "HEADLINE_1": "Share on the ",
+        "HEADLINE_2": "Socrate Feed ",
+        "HEADLINE_3": "everything you love. Exchange and progress together on a daily basis.",
+        "PARAGRAPH": "Build your feed around what you like by choosing your 3 themes or by discovering those of other members.\n\nThanks to the feed, put forward your knowledge and participate in the birth of a collective intelligence without limits."
+      },
+      "THREE": {
+        "HEADLINE_1": "Manage your ",
+        "HEADLINE_2": "account ",
+        "HEADLINE_3": "and your transactions with a master's hand!",
+        "PARAGRAPH": "Socrate gives you all the tools you need to do what you do best, share.\n\nManage your transactions easily and transfer your income to your bank account."
+      }
+    },
+    "PRE_FOOTER": {
+      "TITLE": "Socrate's ambition is to put the\nhuman being and their knowledge\ncentre of a strong movement.",
+      "PARAGRAPH": "That of a collective intelligence without limits."
+    },
+    "FOOTER": {
+      "COPYRIGHT": "Socrate© 2022, all right reserved.",
+      "HDF": "Socrate receives financial support from\nthe Hauts-de-France Region",
+      "HELP_CENTER": "HelpCenter",
+      "TCU": "Terms and Conditions of Use ",
+      "PRIVACY_POLICY": " Privacy Policy"
+    },
+    "COOKIES": {
+      "DISCLAIMER": "This site uses cookies and gives you control over their activation.",
+      "ACCEPT": "Allow all cookies",
+      "NECESSARY": "Necessary cookies only"
+    }
+  }
+}

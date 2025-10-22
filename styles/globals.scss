@@ -1,0 +1,107 @@
+@import "loader";
+
+:root {
+  --black: black;
+  --white: white;
+  --bg-background: #F8F8F8;
+  --bg-foreground: white;
+  --header-border: rgba(0, 0, 0, 0.2);
+  --card-description: black;
+  --deep-blue: #027DFD;
+
+  /* toast style */
+  --toastify-color-light: var(--deep-blue) !important;
+  --toastify-color-dark: var(--deep-blue) !important;
+  --toastify-color-info: var(--deep-blue) !important;
+  --toastify-color-success: var(--deep-blue) !important;
+  --toastify-color-warning: #f1c40f;
+  --toastify-color-error: #e74c3c;
+  --toastify-color-transparent: rgba(255, 255, 255, 0.7);
+
+  --toastify-icon-color-info: var(--toastify-color-info);
+  --toastify-icon-color-success: var(--toastify-color-success);
+  --toastify-icon-color-warning: var(--toastify-color-warning);
+  --toastify-icon-color-error: var(--toastify-color-error);
+
+  --toastify-toast-width: 320px;
+  --toastify-toast-background: #fff;
+  --toastify-toast-min-height: 64px;
+  --toastify-toast-max-height: 800px;
+  --toastify-font-family: sans-serif;
+  --toastify-z-index: 9999;
+
+  --toastify-text-color-light: #757575;
+  --toastify-text-color-dark: #fff;
+}
+
+[data-theme='dark'] {
+  --black: white;
+  --white: black;
+  --bg-background: black;
+  --bg-foreground: #1E1E1E;
+  --header-border: rgba(255, 255, 255, 0.2);
+  --card-description: rgba(255, 255, 255, 0.6);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  background: var(--bg-background);
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, 'Montserrat', sans-serif;
+}
+
+input,
+textarea,
+button {
+  font-family: -apple-system, 'Montserrat', sans-serif;
+}
+
+p {
+  white-space: pre-wrap;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.blue {
+  color: var(--deep-blue);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* dark-mode transition */
+html,
+body,
+header,
+main,
+footer,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+pre {
+  line-height: 1.5;
+  transition: color, background, background-color 0.3s ease;
+  margin: 0;
+  color: var(--black);
+}
+
+* {
+  box-sizing: border-box;
+}
+

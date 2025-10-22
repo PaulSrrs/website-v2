@@ -1,0 +1,90 @@
+{
+  "META": {
+    "TITLE": "Socrate, le 1er réseau social européen du partage de connaissances.",
+    "DESCRIPTION": "Apprenez et partagez toutes vos connaissances. Téléchargez l'application mobile, web et iPad.",
+    "OG_TYPE": "website",
+    "OG_URL": "https://socrate.education/",
+    "OG_TITLE": "Socrate, le 1er réseau social européen du partage de connaissances.",
+    "OG_DESCRIPTION": "Apprenez et partagez toutes vos connaissances. Téléchargez l'application mobile, web et iPad.",
+    "OG_IMAGE": "https://sn-images.socrate.education/static/banner-beta.png",
+    "TWITTER_CARD": "summary_large_image",
+    "TWITTER_URL": "https://socrate.education/",
+    "TWITTER_TITLE": "Socrate, le 1er réseau social européen du partage de connaissances.",
+    "TWITTER_DESCRIPTION": "Apprenez et partagez toutes vos connaissances. Téléchargez l'application mobile, web et iPad.",
+    "TWITTER_IMAGE": "https://sn-images.socrate.education/static/banner-beta.png"
+  },
+  "V2": {
+    "HERO": {
+      "HEADLINE_1": "Le 1er réseau social\neuropéen du ",
+      "HEADLINE_2": "partage de\nconnaissances",
+      "SUBHEADLINE": "Apprenez, partagez et progressez.",
+      "SOCRATE_ON_BROWSER": "Accéder à Socrate"
+    },
+    "BADGES": {
+      "PLAY_STORE": {
+        "ALT": "google play badge",
+        "LINK": "https://socrate.app.link/fWmhA2h0Xmb",
+        "SRC_WHITE": "../../assets/images/badges/play-store-black.svg",
+        "SRC_BLACK": "../../assets/images/badges/play-store-black.svg"
+      },
+      "APPLE_STORE": {
+        "ALT": "apple store badge",
+        "LINK": "https://socrate.app.link/l1oOs92ZXmb",
+        "SRC_WHITE": "../../assets/images/badges/apple-store-black.svg",
+        "SRC_BLACK": "../../assets/images/badges/apple-store-black.svg"
+      }
+    },
+    "PERSONNAS": {
+      "ONE": {
+        "NAME": "Brooklyn Simmons",
+        "TYPE": "Apprenante",
+        "JOB": "Étudiante en stylisme"
+      },
+      "FOUR": {
+        "NAME": "Socrate",
+        "TYPE": "Entreprise",
+        "JOB": "Réseau social"
+      },
+      "SIX": {
+        "NAME": "Jerome Bell",
+        "TYPE": "Mentor",
+        "JOB": "Développeur"
+      }
+    },
+    "SLIDES": {
+      "ONE": {
+        "HEADLINE_1": "Apprenez et partagez toutes vos connaissances sur ",
+        "HEADLINE_2": "Socrate Store.",
+        "PARAGRAPH": "En tant qu’apprenant, vous y trouverez exactement ce que vous recherchez pour progresser.\nDes cours, des évènements, des formations, des podcasts, des fiches, et surtout...des Mentors.\n\nEn tant que Mentor, vous partagerez toutes vos connaissances et ce dans n’importe quel domaine.\nEn ligne ou en présentiel, à un ou des dizaines d’apprenants simultanément.\nC’est à vous de choisir."
+      },
+      "TWO": {
+        "HEADLINE_1": "Partagez sur le ",
+        "HEADLINE_2": "Feed Socrate ",
+        "HEADLINE_3": "tout ce que vous aimez. Échangez et progressez ensemble au quotidien.",
+        "PARAGRAPH": "Construisez votre feed autour de ce que vous aimez en choisissant vos 3 thématiques ou en découvrant celles des autres membres.\n\nGrâce au feed, mettez en avant vos connaissances et participez ainsi, à la naissance d’une intelligence collective sans limites."
+      },
+      "THREE": {
+        "HEADLINE_1": "Gérez votre ",
+        "HEADLINE_2": "compte ",
+        "HEADLINE_3": "et vos transactions d’une main de maître !",
+        "PARAGRAPH": "Socrate met à votre disposition, tous les outils dont vous avez besoin pour faire ce que vous savez faire de mieux, partager.\n\nGérez vos transactions facilement et transférez vos revenus vers votre compte banquaire."
+      }
+    },
+    "PRE_FOOTER": {
+      "TITLE": "L'ambition de Socrate est de replacer\nl’humain et ses connaissances au\ncentre d’un mouvement fort.",
+      "PARAGRAPH": "Celui d’une intelligence collective sans limites."
+    },
+    "FOOTER": {
+      "COPYRIGHT": "Socrate© 2022, tous droits réservés.",
+      "HDF": "Socrate bénéficie du soutien financier\nde la Région Hauts-de-France",
+      "HELP_CENTER": "HelpCenter",
+      "TCU": "Conditions Générales d’Utilisation ",
+      "PRIVACY_POLICY": " Politique de Confidentialité"
+    },
+    "COOKIES": {
+      "DISCLAIMER": "Ce site utilise des cookies et vous donne le contrôle sur leur activation.",
+      "ACCEPT": "Autoriser tous les cookies",
+      "NECESSARY": "Cookies nécessaires uniquement"
+    }
+  }
+}

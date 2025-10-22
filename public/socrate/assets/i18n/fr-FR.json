@@ -1,0 +1,191 @@
+{
+  "HELLO": "bonjour {{value}} ",
+  "META": {
+    "TITLE": "Socrate, le nouveau réseau social de la connaissance.",
+    "DESCRIPTION": "Pré-inscrivez-vous sur Socrate pour rejoindre la bêta privée. Découvrez des fonctionnalités inédites, et commencez à gagner de l'argent grâce à vos connaissances.",
+    "OG_TYPE": "website",
+    "OG_URL": "https://socrate.education/",
+    "OG_TITLE": "Socrate, le nouveau réseau social de la connaissance.",
+    "OG_DESCRIPTION": "Pré-inscrivez-vous sur Socrate pour rejoindre la bêta privée. Découvrez des fonctionnalités inédites, et commencez à gagner de l'argent grâce à vos connaissances.",
+    "OG_IMAGE": "https://images.socrate-edu.com/static/meta-banner.png",
+    "TWITTER_CARD": "summary_large_image",
+    "TWITTER_URL": "https://socrate.education/",
+    "TWITTER_TITLE": "Socrate, le nouveau réseau social de la connaissance.",
+    "TWITTER_DESCRIPTION": "Pré-inscrivez-vous sur Socrate pour rejoindre la bêta privée. Découvrez des fonctionnalités inédites, et commencez à gagner de l'argent grâce à vos connaissances.",
+    "TWITTER_IMAGE": "https://images.socrate-edu.com/static/meta-banner.png",
+    "HOME": {
+      "TITLE": "Le titre de la page principale"
+    },
+    "ABOUT_US": {
+      "TITLE": "Le titre d'à propos"
+    },
+    "BUSINESS": {
+      "TITLE": "Le titre de la page business"
+    },
+    "CONTACT": {
+      "TITLE": "Le titre de la page contact"
+    },
+    "COOKIES": {
+      "TITLE": "Le titre de la page des cookies"
+    },
+    "HOW_IT_WORKS": {
+      "TITLE": "Le titre de la page de comment cela fonctionne"
+    },
+    "LEARN": {
+      "TITLE": "Le titre de la page d'apprentissage"
+    },
+    "MENTORS": {
+      "TITLE": "Le titre de la page des mentors"
+    },
+    "LANDING": {
+      "TITLE": "Socrate"
+    },
+    "REGISTERED": {
+      "TITLE": "Félicitations !"
+    },
+    "NOT_FOUND": {
+      "TITLE": "Le titre de la page d'erreur"
+    },
+    "PRIVACY": {
+      "TITLE": "Le titre de la page politique de confidentialité"
+    },
+    "SOCRATE": {
+      "TITLE": "Le titre de la page de présentation de socrate"
+    },
+    "TERMS": {
+      "TITLE": "Le titre de la page des termes CGU"
+    }
+  },
+  "NAVBAR": {
+    "HOME": "Accueil",
+    "HOW_IT_WORKS": "Comment ça marche ?",
+    "ABOUT": "A propos",
+    "SOCRATE": "Socrate",
+    "CONTACT": "Support",
+    "REGISTRATION": "S'inscrire"
+  },
+  "HERO": {
+    "TITLE": "Des possibilités d’apprentissage infinies.",
+    "PARAGRAPH": "Sur Socrate, libérez votre pouvoir… Celui du savoir et de la connaissance. Plongez au coeur du réseau ",
+    "BUTTON_TEXT": "Démarrer l'expérience"
+  },
+  "FOOTER": {
+  "FIRST_COLUMNS": "Principale",
+    "SECOND_COLUMNS": {
+      "TITLE": "Vous",
+      "FIRST_LINK": "Elèves",
+      "SECOND_LINK": "Entreprises",
+      "THIRD_LINK": "Enseignants"
+    },
+    "THIRD_COLUMNS": {
+      "TITLE": "Support",
+      "FIRST_LINK": "contact@socrate-edu.com",
+      "SECOND_LINK": "Socrate © 2021. Tous droits réservés.",
+      "THIRD_LINK": "Centre d'aide",
+      "FOURTH_LINK": "FAQ"
+    },
+    "FOURTH_COLUMNS": {
+      "TITLE": "Législation",
+      "FIRST_LINK": "Plan du site",
+      "SECOND_LINK": "Conditions d'utilisations",
+      "THIRD_LINK": "RGPD"
+    }
+},
+  "DOWNLOAD": {
+    "TITLE": "Tester l'application",
+    "DESCRIPTION": "Téléchargez l’application et rejoignez dès maintenant la communauté Socrate.",
+    "BUTTON_TEXT": "Rejoindre l'aventure"
+  },
+  "LANDING": {
+    "HERO": {
+      "TITLE": "Et si votre savoir devenait votre nouveau super pouvoir ?",
+      "DESCRIPTION": "Obtenez votre invitation pour rejoindre la bêta privée et découvrez Socrate, le réseau social de la connaissance.",
+      "BUTTON": "Démarrer l'expérience"
+    },
+    "SHARE": {
+      "TITLE": "Partagez vos connaissances avec des milliers d'apprenants.",
+      "PARAGRAPH_ONE": "Créez votre profil en quelques minutes et commencez à gagner de l’argent en partageant vos connaissances.",
+      "PARAGRAPH_TWO": "Profitez de fonctionnalités inédites qui vous permettront de fédérer votre communauté et faire décoller rapidement vos ventes."
+    },
+    "DISCOVERY": {
+      "TITLE": "Découvrez des fonctionnalités inédites.",
+      "CARD_ONE": {
+        "TITLE": "Créez et monétisez",
+        "DESCRIPTION": "Vos évènements, conférences, formations, cours et podcasts."
+      },
+      "CARD_TWO": {
+        "TITLE": "Messenger",
+        "DESCRIPTION": "Discutez et créez du lien avec vos apprenants."
+      },
+      "CARD_THREE": {
+        "TITLE": "Cloud Socrate",
+        "DESCRIPTION": "Hébergez et partagez tous vos documents (vidéos, images, pistes audios)"
+      },
+      "CARD_FOUR": {
+        "TITLE": "Wallet",
+        "DESCRIPTION": "Gérez vos paiements et consultez vos factures en quelques clics."
+      }
+    },
+    "ADVANTAGE": {
+      "TITLE": "Profitez d’avantages exclusifs avant le lancement officiel.",
+      "FIRST": "Accès en avant-première,",
+      "FIRST_AFTER": "aux dernières fonctionnalités du réseau social.",
+      "SECOND": "0% de commission",
+      "SECOND_AFTER": "pour tous les mentors jusqu’au lancement officiel.",
+      "THIRD": "Soyez les premiers à l'utiliser et",
+      "THIRD_AFTER": "aidez-nous à améliorer Socrate selon vos besoins.",
+      "FOURTH": "Invitez votre communauté",
+      "FOURTH_AFTER": "à découvrir Socrate (clients, amis...)."
+    },
+    "BETA": {
+      "TITLE": "Rejoignez la bêta",
+      "CARD_ONE": {
+        "TITLE": "Obtenez votre invitation",
+        "DESCRIPTION": "en vous inscrivant via le formulaire."
+      },
+      "CARD_TWO": {
+        "TITLE": "Créez votre profil Mentor",
+        "DESCRIPTION": "en quelques minutes."
+      },
+      "CARD_THREE": {
+        "TITLE": "Invitez votre communauté",
+        "DESCRIPTION": "à vous rejoindre sur Socrate."
+      },
+      "CARD_FOUR": {
+        "TITLE": "Commencez à partager",
+        "DESCRIPTION": "et monétiser toutes vos connaissances."
+      }
+    },
+    "FORM": {
+      "TITLE": "Inscrivez-vous",
+      "SEARCH": "Rechercher",
+      "NAME": "Nom",
+      "FIRST_NAME": "Prénom",
+      "EMAIL": "Adresse mail",
+      "MOBILE": "Numéro de téléphone (facultatif)",
+      "PROFILE_TYPE": {
+        "TITLE": "Type de profil",
+        "DESCRIPTION": "Veuillez sélectionner une des options",
+        "CUSTOMER": "Apprenant",
+        "MENTOR": "Mentor",
+        "COMPANY": "Entreprise"
+      },
+      "BUTTON": "Obtenir mon invitation",
+      "CHECKBOX_TEXT": "En cochant cette case, vous acceptez de recevoir les actualités de Socrate et les offres marketing.",
+      "ERRORS": {
+        "UNEXPECTED_ERROR": "Une erreur est survenue",
+        "ALREADY_EXISTS": "Votre e-mail est déjà utilisé",
+        "REQUIRED": "Ce champs est obligatoire",
+        "EMAIL": "Ce n'est pas une adresse-mail valide",
+        "PHONE": "Ce n'est pas un numéro de téléphone valide"
+      }
+    }
+  },
+  "REGISTERED": {
+    "TITLE": "Félicitations pour votre inscription !",
+    "DESCRIPTION": "Vous recevrez très prochainement votre invitation par e-mail."
+  },
+  "LINKEDIN": "https://www.linkedin.com/company/socrateedu/",
+  "FACEBOOK": "https://www.facebook.com/SocrateEdu/",
+  "INSTAGRAM": "https://www.instagram.com/socrateedu/"
+}

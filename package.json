@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@formatjs/intl-localematcher": "^0.6.1",
+    "@types/negotiator": "^0.6.4",
+    "i": "^0.3.7",
+    "negotiator": "^1.0.0",
+    "next": "15.5.2",
+    "npm": "^11.6.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
     "typescript": "^5",
